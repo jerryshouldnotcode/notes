@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome!
-
 I’m Jeremiah, and here’s my public notebook.
 
 I write here mainly to comprehend conceptual and technical ideas better. Documenting my thinking, so lots of notes, sketches, and artifacts from ideas I’ve found interesting enough to explore.
