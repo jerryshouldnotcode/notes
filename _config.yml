@@ -23,7 +23,7 @@ author: Jeremiah Adeyemi
 email: jeremiahadeyemi120@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical writing on things I find interesting.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/notes" # the subpath of your site, e.g. /blog
 url: "https://jerryshouldnotcode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jerryshouldnotcode
 linkedin_username: jeremiah-adeyemi
