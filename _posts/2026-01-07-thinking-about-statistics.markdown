@@ -2,8 +2,10 @@
 layout: post
 title:  "Statistics, Data, and Acting Under Uncertainty"
 date:   2026-01-07 13:03:00
-categories: Math 
+categories: math 
 ---
+
+![*(image credits to the Oppenheimer film, and imgflip.com)*]({{ "assets\images\9dwaj6.jpg" | relative_url }})
 
 Recently, I’ve been thinking about the way I approach figures in the news and in papers.
 
