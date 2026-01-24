@@ -5,13 +5,13 @@ date:   2026-01-20 21:31:00
 categories: metacog 
 ---
 
-I spent quite a bit of last summer thinking a lot about how to create good ideas, and honestly, it’s pretty easy. While epiphanies and flashes of insight are cool, I have been playing with a thought: how many big ideas in our world are simply variations of first-principles concepts, just cloaked under different names? How is there a finite amount of concepts, yet seemingly novel ways to apply them in different contexts?
+I spent quite a bit of last summer thinking a lot about how to create good ideas. While epiphanies and flashes of insight are cool, I have been playing with a thought: what's the meta behind making ideas? What principles transfer when you solve problems across different contexts? 
  
-To make breakthroughs in a field, you have to solve actual problems, questions in disguise. Creativity is the use of the faculties to generate feasible ideas to solve those questions. 
+The reason is this: there are a lot of problems, and not a lot of solutions. As long as we have questions, we have problems - areas of weakness pragmatically and theoretically. Creativity is the use of the faculties to generate feasible ideas to solve those questions. But there are only so many ideas we can generate. So, how can we use a finite number of ideas to approach an infinite number of problems? 
 
 I propose that every cool idea brought up is a product of the tools we’ve made over time to approach the creativity problem. We’ve developed a set of cross-domain tools for problem-solving, and domains set up the framework and tools we have for execution.
 
-To solve any problem in any field, you need a mix of the two: a generative and a domain-based approach to creativity. It’s easy to see how the domain plays a role; for instance, to solve a word problem in mathematics, one must first translate it into mathematical language (algebra, figures, or geometry). To solve a programming bug, one must think procedurally by tracing the logic of one’s code and thinking of edge cases.
+To solve any problem in any field, you need a mix of the two: a *generative* and a *domain-based* approach to creativity. It’s easy to see how the domain plays a role; for instance, to solve a word problem in mathematics, one must first translate it into mathematical language (algebra, figures, or geometry). To solve a programming bug, one must think procedurally by tracing the logic of one’s code and thinking of edge cases.
 
 The generative approach is a little more abstract: it’s the patterns that track across each field’s domain-based approach, the common threads that humans tend to follow. Here are some examples:
 
@@ -29,11 +29,11 @@ The generative approach is a little more abstract: it’s the patterns that trac
 
     - **Aesthete**: Humans are moved by beauty and appeal. Here, we are not talking about design choices that improve a product’s offering (functional design) per se; we mean the choices that make people more curious about a product, like its UI. 
 
-These are just a few problem-solving tools that transfer across domains. Another thing to consider is the premise of higher-order ideations - general ideas (still cross-domain) that transcend the solving of a specific problem, but rather focus on methodology in the domain. For a question to need this, it must challenge the status quo of current methods. Work here often becomes the basis of novel fields that spin off from the current.
+These are just a few problem-solving tools that transfer across domains. Another thing to consider is the premise of *higher-order ideations* - general ideas (still cross-domain) that transcend the solving of a specific problem, but rather focus on methodology in the domain. For a question to need this, it must challenge the status quo of current methods. Work here often becomes the basis of novel fields that spin off from the current.
 
 1. **Integration**: my personal favourite: drawing inspiration from another domain’s approach to methodology, system, or process to produce something new. For instance, creative design + web gave us tools like Figma and Canva. Mathematics + signal processing gave us the Fast Fourier Transform algorithm. 
 
-2. **Rule of Thumb**: taking a general approach in an overarching domain and applying it to a subdomain problem. For instance, taking advantage of symmetries is a mathematical approach that applies in geometry and trigonometry. Integral approaches and the underlying idea of ‘infinite sums of infinitesimal areas over a region’ translates in analysis and statistics.
+2. **Rule of Thumb**: taking a general approach in an overarching domain and applying it to a subdomain problem. For instance, taking advantage of symmetries is a mathematical approach that applies in geometry and trigonometry. Integral approaches and the underlying idea of ‘infinite sums of infinitesimal areas over a region’ translate into multiple parts of analysis and statistics.
 
 3. **Phenomenon Decipher**: It is very easy to forget that a lot of domains are born with the intention of deciphering phenomena around us. So, this approach entails creating frameworks from the ground up to create a system we can use to predict future behaviour. See chaos theory and game theory.
 
