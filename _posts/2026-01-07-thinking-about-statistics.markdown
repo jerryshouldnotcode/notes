@@ -5,7 +5,11 @@ date:   2026-01-07 13:03:00
 categories: math 
 ---
 
-![*(image credits to the Oppenheimer film, and imgflip.com)*]({{ "assets\images\9dwaj6.jpg" | relative_url }})
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/9dwaj6.jpg' | relative_url }}" alt="Zero would be nice." style="display: block; margin: 0 auto; max-width: 100%;" />
+  <figcaption><em>Image credits to the Oppenheimer film, and imgflip.com</em></figcaption>
+</figure>
+
 
 Recently, I’ve been thinking about the way I approach figures in the news and in papers.
 
