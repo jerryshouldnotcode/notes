@@ -9,6 +9,7 @@ categories: software
   <img src="{{ '/assets/images/smelly_nerds.png' | relative_url }}" alt="The infamous GitHub copypasta rant." />
   <figcaption><em>Fig 1: pardon the expletives, this just lives in my head rent-free lol.</em></figcaption>
 </figure>
+
 **TL, DR**: building for users? The frontend matters a lot more than you think.
 
 So, I recently built and submitted Librarian v0.1 (an AI-powered PDF reading tool) as an entry to the Codex Creator Challenge. Currently, the MVP has a fair amount of features, the core of which are highlights, notes, and the ability to ask the document questions via an LLM. But I almost didn’t submit it. Even though my progress on the SPEC sheet was reasonable, I was unsatisfied with my tool’s look and feel. 
@@ -27,9 +28,9 @@ Thinking design-first goes against my usual programming instincts. The way I usu
 
 I built Librarian's features before I could express what I was satisfied with. No target and no vocabulary creates the gap between 'functional enough' and 'exactly my intent.' If I’m building for users, the UI/UX is the product, and there has to be a fixed target: the dev’s taste, user surveys, PM’s instructions, etc. This target needs to be iterated over, and that’s where having the language for product feel comes in. If I were to grow in product engineering as a dev, that’s exactly what I would develop.
 
-
-#### Projects mentioned
+##### Projects Mentioned
 
 - [TraceCode — Obinna Nwachukwu](https://tracecode.app/)
 - [Where Dragons Dwell — Huiying Chang](http://dragon-map.vercel.app/)
 - [FixMyShift — Andrew Bybee](https://fixmyshift.vercel.app/)
+
