@@ -660,7 +660,12 @@ body {
     max-width: 65ch;
     margin: 0 auto;
     font-size: 1.125rem;
-    line-height: 1.75;
+    line-height: 1.8;
+  }
+
+  .post-content p {
+    margin-bottom: 1.3em; /*adjust for space between paragraphs*/
+    line-height: 1.62;
   }
   
   h1, h2, h3 {
