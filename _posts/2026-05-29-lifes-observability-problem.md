@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Life’s Observability Problem"
+date:   2026-05-29 01:41:22
+categories: philosophy
+---
+
+Philosophy talks a lot about the meaning of life. Camus with absurdism, Nagel with “the view from nowhere,” Kierkegaard’s “leap of faith,” among many others. They do a better job of describing this push and pull for meaning than I could, so I’m going to do something else. The point of this article is to chat about something smaller, something I often wrestle with when thinking about purpose objectively. If my only reference is my experience, and I’m in a closed system, how much can I really say about what I was made to do? 
+
+Here’s the idea of purpose: the objective for which something exists. We say such a thing has accomplished its purpose when that objective is met. For some reason, it’s easier to conclude that with an instrument or system we’ve built, but it’s more challenging to extend it to ourselves. The purpose of a megaphone is to amplify my voice beyond what I can usually do. The purpose of a hammer is to drive in nails more conveniently than with other objects. The purpose of Jeremiah is…well, harder to define. 
+
+I think part of the issue lies in the counterfactual’s observability, either empirical or imagined. We intuitively describe purpose by function, and what the subject avails us now that its absence doesn’t. I know that the megaphone I bought served its purpose because I strained my voice when I had to talk to a crowd last time. I know the hammer does too because I can, and without contradiction, imagine a world that’s just like ours in every way, except that this new world doesn’t have hammers. There is some access to a “pre-creation” and “post-creation” era, and sometimes intent (because tools have external designers). When the focus becomes a life, it’s easy to see why this fails. 
+
+The only perspective a person has for concluding on their life is… their life. There is no recountable lived experience before one is born, and none when one is gone. The only chance for evaluation happens as life unfolds. So, points off for empiricism. Imagining one’s life in the counterfactual also requires this. If I think about the world in my absence, I can only think in terms of the impact I can see (or hear from others that) I made. To answer what the world would look like if I didn’t exist, I’d have to exist first. 
+
+Intent is even harder. What we want is observational access that’s external. Normally, we either ask the creator or infer intent by comparing similar systems over time. But that only works when those systems, objects, or mechanisms are interchangeable. Purpose isn’t. There is no stable class of “lives” to generalize from, and what holds for one person doesn’t transfer to another without importing assumptions. So, we can’t ask, we can’t infer, and we can’t observe life before or after living it. What’s left is a gap, and most people fill that with frameworks that invoke different kinds of external observers. Religion responds with divinity. Social utility responds with the aggregate moral good. Absurdism revolts in the absence of an answer.
+
+It’s akin to having an agent that constitutes a system evaluate the system. There is no clear divide between the observer and the observed, so any answer has to involve an extra move that imports an external perspective. Which is fine, but we can’t claim to be neutral. To live is to accept that we can’t claim purpose from pure logic alone, not without accepting extra assumptions.

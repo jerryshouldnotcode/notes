@@ -31,6 +31,6 @@ I built Librarian's features before I could express what I was satisfied with. N
 ##### Projects Mentioned
 
 - [TraceCode — Obinna Nwachukwu](https://tracecode.app/)
-- [Where Dragons Dwell — Huiying Chang](http://dragon-map.vercel.app/)
+- [Where Dragons Dwell — Huiying Chung](http://dragon-map.vercel.app/)
 - [FixMyShift — Andrew Bybee](https://fixmyshift.vercel.app/)
 
